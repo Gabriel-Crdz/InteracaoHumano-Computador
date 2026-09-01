@@ -22,18 +22,18 @@ Preencha a coluna **"Resposta (1–5)"**. A coluna **"Ajuste"** é calculada aut
 
 ## Questionário SUS
 
-| Item | Resposta (1–5) | Ajuste (automático) |
-|---|---:|---:|
-| 1. Eu acho que gostaria de usar este sistema com frequência. | 4 | 3 |
-| 2. Eu achei o sistema desnecessariamente complexo. | 1 | 4 |
-| 3. Eu achei o sistema fácil de usar. | 3 | 2 |
-| 4. Eu acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos para conseguir usar o sistema. | 1 | 4 |
-| 5. Eu achei que as várias funções do sistema estavam bem integradas. | 3 | 2 |
+| Item | Resposta (1–5) | Ajuste (automático) | Observações |
+|---|---:|---:| --- |
+| 1. Eu acho que gostaria de usar este sistema com frequência. | 4 | 3 | |
+| 2. Eu achei o sistema desnecessariamente complexo. | 1 | 4 | A interface é razoavelmente simples, e ela propria ajuda |
+| 3. Eu achei o sistema fácil de usar. | 3 | 2 | Como mencionado na pergunta anterior o proprio sistema, ajuda mostrando quais botões são necessarios para terminadas ações |
+| 4. Eu acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos para conseguir usar o sistema. | 1 | 4 | Não a necessidade de ajuda externa com conhecimentos tecnicos |
+| 5. Eu achei que as várias funções do sistema estavam bem integradas. | 3 | 2 | Existe um padrão coeso dos botões do controle em relação as suas funcionalidades |
 | 6. Eu achei que houve muita inconsistência neste sistema. | 1 | 4 |
-| 7. Eu imagino que a maioria das pessoas aprenderia a usar este sistema rapidamente. | 4 | 3 |
-| 8. Eu achei o sistema muito difícil de usar. | 2 | 3 |
+| 7. Eu imagino que a maioria das pessoas aprenderia a usar este sistema rapidamente. | 4 | 3 | Tudo que é necessario e saber os comandos do controle, algo que o proprio jogo ajuda, sempre mostrando qual botão apertar. |
+| 8. Eu achei o sistema muito difícil de usar. | 2 | 3 | De inicio, e um pouco dificil, pela falta de conhecimento dos botões, mas conforme voce avança no jogo a jogabilidade fica mais fluida. |
 | 9. Eu me senti confiante ao usar o sistema. | 3 | 2 |
-| 10. Eu precisei aprender várias coisas novas antes de conseguir usar o sistema. | 1 | 4 |
+| 10. Eu precisei aprender várias coisas novas antes de conseguir usar o sistema. | 1 | 4 | Apenas é necessario ter conhecimento sobre os botoes do controle de console, algo comum quando voce vai ter contato com um novo jogo. |
 
 ## Resultado
 
